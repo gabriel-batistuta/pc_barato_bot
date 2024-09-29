@@ -1,0 +1,23 @@
+{
+    "components": [
+        "Memória RAM",
+        "Processador",
+        "Placa de Vídeo",
+        "Fonte",
+        "Placa Mãe",
+        "Fans",
+        "Placa de Rede",
+        "Mouse",
+        "Teclado",
+        "Mousepad",
+        "Escrivaninha",
+        "Monitor",
+        "Cabo de Rede",
+        "Cabo HDMI",
+        "HD",
+        "SSD",
+        "Caixa de Som",
+        "Headset",
+        "Chave de Windows"
+    ]
+}
